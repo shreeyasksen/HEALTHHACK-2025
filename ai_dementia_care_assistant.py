@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1t20XBgiBR2EmdrsjGh4BE9QqrFfFsx8V
 """
 
+pip install pyttsx3 SpeechRecognition
 
 
 import os
